@@ -1,7 +1,3 @@
-Voici le fichier README pour votre code :
-
----
-
 # Système Expert
 
 Ce programme implémente un système expert qui permet de diagnostiquer les pannes potentielles d'un ordinateur en fonction des symptômes fournis par l'utilisateur. Il propose deux modes d'utilisation : Mode Utilisateur et Mode Expert.
@@ -49,4 +45,4 @@ Dans le Mode Expert, vous pouvez afficher toutes les pannes répertoriées avec 
 - `tkinter`: Utilisé pour l'interface graphique.
 - `ttkthemes`: Utilisé pour les thèmes personnalisés dans l'interface graphique.
 ## Exécution du code 
--Tapez "python SE.py" pour exécuter le code.
+-Tapez 'python SE.py' pour exécuter le code.
